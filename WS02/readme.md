@@ -141,7 +141,7 @@ Design and code a class named `RecordSet` that manages a **dynamically** allocat
 - `size_t size()`: a query that returns the number of records stored in the current object.
 - `std::string getRecord(size_t)`: a query that returns the record at the index received as the function parameter in an object of type `std::string`. If the index is invalid, this function should return an empty string.
 
-To review the syntax for reading from a text file using an `std::ifstream` object see the chapter in your notes entitled [Custom File Operators](https://scs.senecac.on.ca/~BTP200/pages/content/files.html).
+To review the syntax for reading from a text file using an `std::ifstream` object see the chapter in your notes entitled [Input and Output Operators](https://ict.senecacollege.ca/~oop244/pages/content/custo.html).
 
 
 
